@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<characters>
+    <character cardId='1'>
+        <name>云诗</name>
+        <alias>萝卜妖</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>在很久很久以前，有一根萝卜，一根简单的萝卜，她修炼成妖了!</story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='2'>
+        <name>墨关</name>
+        <alias>帝二皇子妖</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='3'>
+        <name>清言</name>
+        <alias>天灵殿弟子</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='4'>
+        <name>无冥</name>
+        <alias>上仙</alias>
+        <attack>1</attack>
+        <defense>200</defense>
+        <story></story>
+        <quality>Z</quality>
+    </character>
+    <character cardId='5'>
+        <name>司年</name>
+        <alias>无冥的大弟子</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='6'>
+        <name>绍一</name>
+        <alias>隐居的上仙</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='7'>
+        <name>绍一</name>
+        <alias>隐居的上仙</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='8'>
+        <name>陌寒</name>
+        <alias>水妖P</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='9'>
+        <name>白梨</name>
+        <alias>树妖</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='10'>
+        <name>墨可</name>
+        <alias>妖帝三公主</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='11'>
+        <name>紫殇</name>
+        <alias>狐妖</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story></story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='12'>
+        <name>露露</name>
+        <alias>肚皮怪</alias>
+        <attack>1</attack>
+        <defense>1</defense>
+        <story></story>
+        <quality>N</quality>
+    </character>
+</characters>
