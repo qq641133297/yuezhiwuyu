@@ -10,7 +10,7 @@
     </character>
     <character cardId='2'>
         <name>墨关</name>
-        <alias>帝二皇子妖</alias>
+        <alias>妖帝二皇子</alias>
         <attack>100</attack>
         <defense>100</defense>
         <story></story>
@@ -25,19 +25,19 @@
         <quality>SSR</quality>
     </character>
     <character cardId='4'>
-        <name>无冥</name>
-        <alias>上仙</alias>
-        <attack>1</attack>
-        <defense>200</defense>
+        <name>夜辉</name>
+        <alias>魔皇太子</alias>
+        <attack>100</attack>
+        <defense>100</defense>
         <story></story>
-        <quality>Z</quality>
+        <quality>SR</quality>
     </character>
     <character cardId='5'>
         <name>司年</name>
         <alias>无冥的大弟子</alias>
         <attack>100</attack>
         <defense>100</defense>
-        <story></story>
+        <story>一朵红莲</story>
         <quality>SSR</quality>
     </character>
     <character cardId='6'>
@@ -46,19 +46,19 @@
         <attack>100</attack>
         <defense>100</defense>
         <story></story>
-        <quality>SSR</quality>
+        <quality>SR</quality>
     </character>
     <character cardId='7'>
-        <name>绍一</name>
-        <alias>隐居的上仙</alias>
+        <name>露露</name>
+        <alias>蓬莱岛仙童</alias>
         <attack>100</attack>
         <defense>100</defense>
         <story></story>
-        <quality>SSR</quality>
+        <quality>SR</quality>
     </character>
     <character cardId='8'>
         <name>陌寒</name>
-        <alias>水妖P</alias>
+        <alias>水妖</alias>
         <attack>100</attack>
         <defense>100</defense>
         <story></story>
@@ -86,14 +86,94 @@
         <attack>100</attack>
         <defense>100</defense>
         <story></story>
-        <quality>SSR</quality>
+        <quality>SR</quality>
     </character>
     <character cardId='12'>
-        <name>露露</name>
-        <alias>肚皮怪</alias>
-        <attack>1</attack>
-        <defense>1</defense>
+        <name>星晨</name>
+        <alias>神秘侠客</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>天上掉下的一颗星，手持随之坠落的陨铁铸成的巨剑。</story>
+        <quality>SR</quality>
+    </character>
+    <character cardId='13'>
+        <name>墨玲</name>
+        <alias>妖帝七公主</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>一只可爱的萝莉！！！</story>
+        <quality>SSR</quality>
+    </character>
+    <character cardId='14'>
+        <name>一只球</name>
+        <alias>未知物种</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>迷</story>
+        <quality>SR</quality>
+    </character>
+    <character cardId='15'>
+        <name>一根毛</name>
+        <alias>未知物种</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>迷</story>
+        <quality>SR</quality>
+    </character>
+    <character cardId='100'>
+        <name>HTC</name>
+        <alias>补给</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>金华大火腿！</story>
+        <quality>R</quality>
+    </character>
+    <character cardId='101'>
+        <name>便当</name>
+        <alias>补给</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>居家旅行必备！</story>
+        <quality>R</quality>
+    </character>
+    <character cardId='102'>
+        <name>口香糖</name>
+        <alias>补给</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>嚼嚼更健康~</story>
+        <quality>N</quality>
+    </character>
+    <character cardId='103'>
+        <name>咸鱼</name>
+        <alias>补给</alias>
+        <attack>100</attack>
+        <defense>100</defense>
         <story></story>
         <quality>N</quality>
+    </character>
+    <character cardId='104'>
+        <name>米</name>
+        <alias>补给</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>可以女装的那种！</story>
+        <quality>N</quality>
+    </character>
+    <character cardId='105'>
+        <name>林氏馒头</name>
+        <alias>补给</alias>
+        <attack>100</attack>
+        <defense>100</defense>
+        <story>特产(惨)!</story>
+        <quality>N</quality>
+    </character>
+    <character cardId='9999'>
+        <name>无冥</name>
+        <alias>上仙</alias>
+        <attack>1</attack>
+        <defense>200</defense>
+        <story>非洲象征概率极低！</story>
+        <quality>Z</quality>
     </character>
 </characters>
